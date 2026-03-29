@@ -832,7 +832,7 @@ int main() {
 
 #### Definition (Exam Ready)
 
-C++ is a strongly (strictly) typed language, meaning:
+#### C++ is a strongly (strictly) typed language, meaning:
 
 - Every variable must be declared with a type
 - Operations are allowed only between compatible data types
@@ -1168,7 +1168,9 @@ int main() {
 
 #### 3) Copy Constructor
 
-Definition (Very Important): A constructor that initializes an object using another object of the same class.
+#### Definition (Very Important): 
+##### $\color{yellow}{\text{A constructor that initializes an object using another object of the same class.}}$
+
 
 Syntax:
 
